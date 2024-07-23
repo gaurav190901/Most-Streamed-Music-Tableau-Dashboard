@@ -8,13 +8,13 @@
 Welcome to the Most Streamed Music Tableau Dashboard project! This repository contains all the necessary files and documentation to understand, run, and modify the Tableau dashboard showcasing the most streamed music tracks.
 
 ## Files
-- **MostStreamedMusics.twbx**: Tableau workbook file.
+- **Most Streamed Musics.twb**: Tableau workbook file.
 - **README.md**: Documentation and instructions.
 - **Most Streamed Spotify Songs 2024.csv**: Dataset file.
 
 ## Instructions
 1. Load the dataset using pandas.
-2. Open the Tableau workbook (`MostStreamedMusics.twbx`) in Tableau to explore the dashboard.
+2. Open the Tableau workbook (`Most Streamed Musics.twb`) in Tableau to explore the dashboard.
 3. Modify and extend the analysis as needed.
 
 ## Features
